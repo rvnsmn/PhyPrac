@@ -1,0 +1,20 @@
+{
+  "questions": [
+    {
+      "question": "Hello There",
+      "answer": "Hi there"
+    },
+    {
+      "question": "How are you?",
+      "answer": " I am doing fine, thank you for asking, How are you?"
+    },
+    {
+      "question": "I'm doing good thanks!",
+      "answer": "Glad to hear that, how can I help you today?"
+    },
+    {
+      "question": "what is the capital of rome?",
+      "answer": "Rome is the capital city and most populated comune (municipality) of Italy.\nIt is also the administrative centre of the Lazio region and of the Metropolitan City of Rome.\nA special comune named Roma Capitale with 2,746,984 residents in 1,287.36 km2 (497.1 sq mi).\nRome is the third most populous city in the European Union by population within city limits.\nThe Metropolitan City of Rome Capital, with a population of 4,223,885 residents, is the most populous metropolitan city in Italy."
+    }
+  ]
+}
